@@ -8,11 +8,11 @@
 2. 新增一Java Project名為FinalGame
 3. 將Dealer.java, Player.java, PlayerEx.java, Person.java, FinalGame.java拖拉到FinalGame Project中（選link，並注意拖拉到src內）
 4. 將Class資料夾內的Class匯入Java Project以利測試
-   - 對著FinalGame Project按右鍵，選Properties > Java build path, 然後 "Add External Class Folder"
-   - 選擇剛剛本機端資料夾CGUIMJava2_FinalGame中的Class資料夾，內含四個Classes
+   - 對著FinalGame Project按右鍵，選Properties > Java build path, 然後 "Add External Class Folder"
+   - 選擇剛剛本機端資料夾CGUIMJava2_FinalGame中的Class資料夾，內含四個Classes
 5. 新增一個Java class，名稱為Player_+學號，繼承Player
-   - 如果學號為B96123，Class名稱則為Player_B96123
-   - 可參考範例PlayerEx.java
+   - 如果學號為B96123，Class名稱則為Player_B96123
+   - 可參考範例PlayerEx.java
 6. 在Player_+學號.java中，新增子類別的建構子（constructor），並將姓名帶入
    - 範例 super("Yi-Ju Tseng (Student ID)", chips);
    - 範例 super("xx-xx xxxxx (B96123)", chips);
@@ -42,5 +42,7 @@
 
 Push **Player+"_"+學號.java**檔，以及**作戰策略（檔名為學號.pdf）** 到GitHub作業Repo
 
-注意: **Player+"_"+學號.java**檔，以及**作戰策略（檔名為學號.pdf）** 需移動到本機端資料夾CGUIMJava2_FinalGame ，才能到GitHub Desktop完成commit、push並上傳
+注意: 
+
+**Player+"_"+學號.java**檔，以及**作戰策略（檔名為學號.pdf）** 需移動到本機端資料夾CGUIMJava2_FinalGame ，才能到GitHub Desktop完成commit、push並上傳
 
