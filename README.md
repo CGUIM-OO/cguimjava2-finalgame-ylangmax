@@ -4,7 +4,7 @@
 
 ## 玩家程式碼
 
-1. 點作業連結，接受作業，並用github desktop將作業Clone到本機端資料夾CGUIMJava2_FinalGame (自行新增此資料夾)
+1. 點作業[連結](https://classroom.github.com/a/TGVlEfnb)，接受作業，並用github desktop將作業Clone到本機端資料夾CGUIMJava2_FinalGame (自行新增此資料夾)
 2. 新增一Java Project名為FinalGame
 3. 將Dealer.java, Player.java, PlayerEx.java, Person.java, FinalGame.java拖拉到FinalGame Project中（選link，並注意拖拉到src內）
 4. 將Class資料夾內的Class匯入Java Project以利測試
